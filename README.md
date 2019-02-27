@@ -6,3 +6,5 @@ This repository contains a few HTMl Games and Webpages, I made back in 2019
 after reading a few books.
 
 I hope you enjoy the games.
+
+These pages and games were created with Atom. I suggest you use it too.
