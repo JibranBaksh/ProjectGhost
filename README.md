@@ -8,3 +8,6 @@ after reading a few books.
 I hope you enjoy the games.
 
 These pages and games were created with Atom. I suggest you use it too.
+
+
+Please use feture request template to submit requests or feature ideas
