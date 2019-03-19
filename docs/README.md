@@ -15,6 +15,6 @@ I suggest you use it too.
 
 Please use feture request template to submit requests or feature ideas
 
-[Code of Conduct](CODE-OF-CONDUCT.md)
+[Code of Conduct](code-of-conduct.md)
 
 [License](LICENSE.md)
