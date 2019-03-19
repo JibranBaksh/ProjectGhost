@@ -18,4 +18,4 @@ When submitting an Enhancement or Bug Report, Please submit an Issue detailing y
 ---
 Please see the [Readme](docs/README.md) for more Information.
 
-The Project Team thanks you for taking the time to read :notebook: our contributing guidelines.
+The Project Team thanks you for taking the time to read :notebook: our contributing guidelines. :rocket:
