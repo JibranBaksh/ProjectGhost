@@ -12,7 +12,7 @@ I hope you enjoy the games.
 This page along with the included games were created with Atom.
 I suggest you use it too.
 
-Please see [Contributing](../docs/CONTRIBUTING.md) for a detailed guide on submitting
+Please see [Contributing](CONTRIBUTING.md) for a detailed guide on submitting
 Bug Reports and Enhancements.
 
-Please also review our[Code of Conduct](../code-of-conduct.md) and [License](../doc/LICENSE.md)
+Please also review our[Code of Conduct](code-of-conduct.md) and [License](LICENSE.md)
