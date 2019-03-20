@@ -20,4 +20,4 @@ Get started [here](CONTRIBUTING.md)
 Please also review our [Code of Conduct](CODE-OF-CONDUCT.md) and [License](LICENSE.md)
 
 <em> Webmaster: Mr-The-Ghost </em> <br>
-&copy; Copyright, 2019
+&copy; Copyright Project Ghost, 2019
