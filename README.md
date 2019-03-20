@@ -2,7 +2,7 @@
 Webpages &amp; Games created with HTML5 &amp; JS
 
 ---
-![Logo](../logo/Logo.png)
+![Logo](logo/Logo.png)
 
 This repository contains a few HTMl Games and Webpages, I made back in 2019
 after reading a few books.
