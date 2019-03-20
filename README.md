@@ -1,8 +1,7 @@
-# HTML5-Webpages-Games
+# Project Ghost
 Webpages &amp; Games created with HTML5 &amp; JS
 
 ---
-![Logo](logo/Logo.png)
 
 This repository contains a few HTMl Games and Webpages, I made back in 2019
 after reading a few books.
@@ -17,7 +16,7 @@ This page along with the included games were created with Atom.
 Thanks for your interest in contributing! There are many ways to contribute to this project.
 Get started [here](CONTRIBUTING.md)
 
-Please also review our [Code of Conduct](CODE-OF-CONDUCT.md) and [License](LICENSE.md)
+Please also review our [Code of Conduct](CODE-OF-CONDUCT.md) and [License](LICENSE)
 
 <em> Webmaster: Mr-The-Ghost </em> <br>
 &copy; Copyright Project Ghost, 2019
