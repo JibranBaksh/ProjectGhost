@@ -16,6 +16,6 @@ Please open a Pull Request with a detailed explanation on what you have done
 When submitting an Enhancement or Bug Report, Please submit an Issue detailing your Enhancement or Bug. Also Include what you were doing when the bug happened.
 
 ---
-Please see the [Readme](docs/README.md) for more Information.
+Please see the [Readme](README.md) for more Information.
 
 The Project Team thanks you for taking the time to read :notebook: our contributing guidelines. :rocket:
