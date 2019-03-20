@@ -1,6 +1,6 @@
 # HTML5-Webpages-Games
 Webpages &amp; Games created with HTML5 &amp; JS
-Licensed with the GNU General Public License V3.0
+
 ---
 ![Logo](../logo/Logo.png)
 
@@ -15,4 +15,7 @@ I suggest you use it too.
 Please see [Contributing](CONTRIBUTING.md) for a detailed guide on submitting
 Bug Reports and Enhancements.
 
-Please also review our[Code of Conduct](code-of-conduct.md) and [License](LICENSE.md)
+Please also review our [Code of Conduct](CODE-OF-CONDUCT.md) and [License](LICENSE.md)
+
+<em> Webmaster: Mr-The-Ghost </em> <br>
+&copy; Copyright Project Ghost, 2019
