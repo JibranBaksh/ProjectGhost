@@ -1,4 +1,4 @@
-# HTML5-Webpages-Games
+# Project Ghost
 Webpages &amp; Games created with HTML5 &amp; JS
 
 ---
