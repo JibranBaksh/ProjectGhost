@@ -12,3 +12,8 @@ text-align: center;
 tr:nth-child(even){
   background-color: lightblue;
 }
+header {
+  background-color: #21242d;
+  margin: 0px;
+  padding: 10px;
+}
