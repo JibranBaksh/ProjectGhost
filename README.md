@@ -1,4 +1,4 @@
-![Logo](/res/Logo.png)
+![Logo](/res/Images/Logo.png)
 
 Webpages &amp; Games created with HTML5 &amp; JS
 ---
