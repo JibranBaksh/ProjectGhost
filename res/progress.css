@@ -1,4 +1,4 @@
-section{
+#sec1{
   padding-left: 200px;
 }
 table{
@@ -13,7 +13,62 @@ tr:nth-child(even){
   background-color: lightblue;
 }
 header {
-  background-color: #21242d;
+  background-color: #708090;
   margin: 0px;
   padding: 10px;
+}
+head{
+  background-color: #708090;
+}
+#sec2{
+  padding-left: 200px;
+  margin-top: 50px;
+}
+progress{
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+/*Chrome and Safari*/
+progress::-webkit-progress-bar{
+  height: 10px;
+  background: #dfdfdf;
+  box-shadow: 0 2px 3px rgba(0,0,0,0.2) inset;
+  border-radius: 5px;
+}
+progress{
+  height: 10px;
+  background: #dfdfdf;
+  box-shadow: 0 2px 3px rgba(0,0,0,0.2) inset;
+  border-radius: 5px;
+}
+/*Mozilla Firefox*/
+progress::-webkit-progress-value{
+  background-color: #026105;
+  border-radius: 5px;
+}
+progress::-moz-progress-bar{
+  background-color: #026105;
+  border-radius: 5px;
+}
+button{
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #708090;
+  color: white;
+  border: none;
+}
+button:hover{
+  background-color: #778899;
+}
+footer {
+  text-align: center;
+  clear: both;
+  position: static;
+  margin: 0px;
+  height: 25px;
+  width: 100%;
+  padding-top: 50px;
+  bottom: 0;
+  left: 0;
 }
