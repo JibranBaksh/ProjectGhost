@@ -1,6 +1,6 @@
 ![Logo](/res/Images/Logo.png)
 
-Webpages &amp; Games created with HTML5 &amp; JS
+A Hobby Project
 ---
 
 This repository contains a few HTMl Games and Webpages, I made back in 2019
