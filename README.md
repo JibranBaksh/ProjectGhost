@@ -3,12 +3,11 @@
 A Hobby Project
 ---
 
-This repository contains a few HTMl Games and Webpages, I made back in 2019
+This repository contains a webpage and a few other assets, I made back in 2019
 after reading a few books.
 
-I hope you enjoy the games.
 
-This page along with the included games were created with Atom.
+This page was created with Atom.
 
 
 ## Contributing
