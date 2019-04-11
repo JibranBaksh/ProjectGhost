@@ -21,7 +21,7 @@ a:link{
   text-decoration: none;
 }
 /*Formating for Section on Main Page*/
-section {
+#posts {
   float: left;
   margin: 0px;
   padding-left: 200px;
@@ -36,8 +36,11 @@ section {
   margin: 0px;
   padding: 0px;
 }
+/*Formatting for join links on main page*/
 #Links{
-  padding: 100px;
+  margin: 0px;
+  float: left;
+  padding-top: 100px;
 }
 /*Footer formating*/
 footer {
