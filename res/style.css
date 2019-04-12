@@ -18,7 +18,7 @@ header {
   font-size: 15px;
   }
 #navBar button:hover{
-  background: radial-gradient(#708090, #778899);
+  background: linear-gradient(#778899, #708090);
 }
 /*Formating for Links*/
 a:link{
