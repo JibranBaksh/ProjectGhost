@@ -1,20 +1,24 @@
 /*Default Styles for the Entire Website*/
 header {
-  background-color: #708090;
   margin: 0px;
   padding: 10px;
+  background: linear-gradient(#21242d, #708090, #778899);
+}
+#Logo{
+  width: 900px;
+  height: 150px;
 }
 /*Top Navigation Bar*/
 #navBar button{
   padding: 10px;
   margin: 10px;
-  background-color: #708090;
+  background: linear-gradient(#708090, #778899);
   color: white;
   border: 1px;
   font-size: 15px;
   }
 #navBar button:hover{
-  background-color: #778899;
+  background: radial-gradient(#708090, #778899);
 }
 /*Formating for Links*/
 a:link{
