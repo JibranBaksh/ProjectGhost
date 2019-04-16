@@ -1,0 +1,14 @@
+input {
+  border-radius: 10px;
+}
+form{
+  text-align: center;
+}
+#First{
+  margin: 0px;
+  padding: 5px;
+}
+#Last{
+  margin: 0px;
+  padding: 5px;
+}
