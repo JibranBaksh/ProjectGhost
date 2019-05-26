@@ -19,5 +19,5 @@ Please also review our [Code of Conduct](CODE-OF-CONDUCT.md) and [License](LICEN
 
 Interested in reading more, Visit the [Wiki](https://github.com/Mr-The-Ghost/Project-Ghost/wiki)
 
-<em> Webmaster: Mr-The-Ghost </em> <br>
+<em> Webmaster: Jibran Baksh </em> <br>
 &copy; Copyright Project Ghost, 2019
