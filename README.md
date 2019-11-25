@@ -3,6 +3,10 @@
 A Hobby Project
 ---
 
+I created this page initially out of boredom. Some way to manage time.
+
+---
+
 This repository contains a webpage and a few other assets, I made back in 2019
 after reading a few books.
 
