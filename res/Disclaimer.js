@@ -1,1 +1,1 @@
-alert("This is a .js Test. This page is still in Testing");
+alert("Thank you for Visiting, This is still a work in progress.");
