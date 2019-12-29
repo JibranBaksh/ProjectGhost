@@ -1,1 +1,1 @@
-alert("Thank you for Visiting, This is still a work in progress.");
+alert("Thank you for Visiting,\n This is still a work in progress.");
